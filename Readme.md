@@ -1,2 +1,2 @@
-# This is my portfolio
-https://eldos.github.io/
+# Click to view my profile
+https://l-dos.github.io/eldos.io/
